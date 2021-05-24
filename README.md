@@ -14,4 +14,4 @@
 
  ## Links
  
- * [LinkedIn](www.linkedin.com/in/marshall-eldridge-24522a84)
+ * [LinkedIn](https://www.linkedin.com/in/marshall-eldridge-24522a84/)
