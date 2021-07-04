@@ -6,9 +6,9 @@
  
  ## Current projects
  
- * Hello World: Java console application
+ * [Tile Matching](https://ddc-java-13.github.io/tile-match/)
  
- * Hello World: Android app
+ * [Team Assignments](https://team-assignments.github.io/)
 
  ## Links
  
